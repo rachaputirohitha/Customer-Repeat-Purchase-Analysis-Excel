@@ -3,7 +3,6 @@
 ## Task Overview
 
 This project focuses on analyzing customer repeat purchase behavior using Microsoft Excel.
-
 The analysis identifies first-time and repeat customers and calculates the overall repeat purchase rate.
 
 ## Dataset
