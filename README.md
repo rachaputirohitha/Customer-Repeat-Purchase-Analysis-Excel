@@ -108,6 +108,7 @@ The analysis shows that approximately **70% of the analyzed customers were repea
 
 <img width="1600" height="900" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/498171df-38f1-498f-a048-9787148f8102" />
 
-<img width="1600" height="900" alt="Screenshot (540)" src="https://github.com/user-attachments/assets/0b2ce2a9-978f-4b09-9405-34e2adc7ae96" />
+<img width="1600" height="900" alt="Screenshot (541)" src="https://github.com/user-attachments/assets/48d6799e-c9d4-4a40-acfa-b3149253c32e" />
+
 
 
